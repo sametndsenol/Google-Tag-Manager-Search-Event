@@ -27,5 +27,3 @@ For each visible product (up to 5), the script pushes a `search_advanced` event 
 - Top searched products
 - Searches with no results
 - Product impressions by search term
-
-## ✨ Made by [your-name]
